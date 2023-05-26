@@ -3,7 +3,7 @@ First approach to virtual reality with Google VR, built stage, system of particl
 
 Prefabas para instalar en sus proyectos. 
 
-Unity 2017.3.1f1 o superior.
+Unity 2017.3.1f1
 
 
 
